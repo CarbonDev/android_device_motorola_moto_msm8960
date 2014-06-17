@@ -93,3 +93,6 @@ TARGET_USERIMAGES_USE_EXT4 := true
 # Needs to be changed for M
 DEVICE_RESOLUTION := 720x1280
 #DEVICE_RESOLUTION := 540x960
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
